@@ -1,0 +1,10 @@
+*{
+    margin:0;
+    padding: 0;
+}
+body{
+    background: #b4b3b3;
+}
+.container{
+    margin:15px 0 0 50px;
+}
